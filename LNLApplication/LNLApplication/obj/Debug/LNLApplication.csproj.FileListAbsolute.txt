@@ -1,0 +1,11 @@
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\bin\Debug\LNLApplication.exe.config
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\bin\Debug\LNLApplication.exe
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\bin\Debug\LNLApplication.pdb
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.csprojResolveAssemblyReference.cache
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.Form1.resources
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.Form2.resources
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.Properties.Resources.resources
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.csproj.GenerateResource.Cache
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.csproj.CoreCompileInputs.cache
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.exe
+C:\Users\River\Documents\Software\LNLApplication\LNLApplication\obj\Debug\LNLApplication.pdb
